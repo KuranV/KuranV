@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-  <img width="150" height="160" alt="TransparentPNG" src="https://github.com/user-attachments/assets/90dce028-8195-47e5-8012-a8fb8270ef39" />
+  <img width="150" height="160" alt="the-pirate-bay-trial-torrent-file-isohunt-pirate-logo-8018c05c6c71cb4c49445c3fcc618ac5" src="https://github.com/user-attachments/assets/e4d272d7-45cf-4430-b5ed-b24e272fc8a4" />
   <br><br>
   <code>i support open source. all my software is free. you can't prove otherwise.</code>
 </p>
