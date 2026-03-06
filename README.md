@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D53EE,100:EB5454&height=200&section=header&text=KuranV&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=professional%20bug%20creator&descSize=20&descAlignY=55&descAlign=50" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1500&pause=100&color=9D53EE&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=120&lines=while(alive)+%7B+eat();+sleep();+code();+%7D;rm+-rf+/+...+just+kidding;git+commit+-m+%22i+don't+know%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1500&pause=100&color=9D53EE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=175&lines=while(alive)+%7B;++eat();++;++sleep();++;++code();+%7D" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-  <img width="150" height="160" alt="the-pirate-bay-trial-torrent-file-isohunt-pirate-logo-8018c05c6c71cb4c49445c3fcc618ac5" src="https://github.com/user-attachments/assets/e4d272d7-45cf-4430-b5ed-b24e272fc8a4" />
+  <img width="150" height="160" alt="pirate" src="https://github.com/user-attachments/assets/e4d272d7-45cf-4430-b5ed-b24e272fc8a4" />
   <br><br>
   <code>i support open source. all my software is free. you can't prove otherwise.</code>
 </p>
