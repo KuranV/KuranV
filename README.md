@@ -14,15 +14,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,discord,raspberrypi,linux,godot,fedora,instagram&perline=5&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,discord,raspberrypi,linux,godot,instagram&perline=5&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KuranV&theme=onedark&no-frame=true&column=4&margin-w=15" alt="Trophies" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KuranV&theme=dark&hide_border=true&border_radius=20&short_numbers=true&background=0d1117&ring=9D53EE&fire=EB5454&currStreakLabel=9D53EE&sideLabels=F1C40F&currStreakNum=ffffff&sideNums=ffffff&dates=555555&excludeDaysLabel=EB5454&exclude_days=Sun%2CSat" width="75%" />
