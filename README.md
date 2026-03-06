@@ -1,6 +1,4 @@
-## Hi there 👋
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KuranV&theme=dark&hide_border=true&border_radius=5&short_numbers=true&exclude_days=Sun%2CSat&excludeDaysLabel=EB5454)](https://git.io/streak-stats)
+# KuranV ✌️
 
 ---
 
@@ -33,6 +31,6 @@
 ---
 <p align="center">
   <a href="mailto:[Your_School_Email]">
-    <img src="https://img.shields.io/badge/-Contact-F1C40F?style=flat-square&logo=gmail&logoColor=black" alt="Email Contact">
+    <img src="https://img.shields.io/badge/-Contact-F1C40F?style=flat-square&logo=gmail&logoColor=black" alt="vladimir.kuran.s@gyarab.cz">
   </a>
 </p>
