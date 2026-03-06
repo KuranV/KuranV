@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D53EE,100:EB5454&height=200&section=header&text=KuranV&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=professional%20bug%20creator&descSize=20&descAlignY=55&descAlign=50" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=9D53EE&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=while(alive)+%7B+eat();+sleep();+code();+%7D;rm+-rf+/+...+just+kidding;404+%3A+social+life+not+found;git+commit+-m+%22fix+everything%22;segfault+(core+dumped)+(my+brain)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=9D53EE&center=true&vCenter=true&repeat=true&width=450&height=35&lines=while(alive)+%7B+eat();+sleep();+code();+%7D;rm+-rf+/+...+just+kidding;404+%3A+social+life+not+found;git+commit+-m+%22fix+everything%22;segfault+(core+dumped)+(my+brain)" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,15 +21,15 @@
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KuranV&theme=transparent&hide_border=true&border_radius=20&short_numbers=true&ring=9D53EE&fire=EB5454&currStreakLabel=9D53EE&sideLabels=F1C40F&currStreakNum=ffffff&sideNums=ffffff&dates=555555&excludeDaysLabel=EB5454&exclude_days=Sun%2CSat" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=KuranV&theme=dark&hide_border=true&border_radius=20&short_numbers=true&background=0d1117&ring=9D53EE&fire=EB5454&currStreakLabel=9D53EE&sideLabels=F1C40F&currStreakNum=ffffff&sideNums=ffffff&dates=555555&excludeDaysLabel=EB5454&exclude_days=Sun%2CSat" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KuranV&show_icons=true&theme=transparent&hide_border=true&title_color=9D53EE&icon_color=EB5454&text_color=ffffff&ring_color=9D53EE&border_radius=20" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KuranV&show_icons=true&theme=dark&hide_border=true&title_color=9D53EE&icon_color=EB5454&text_color=ffffff&ring_color=9D53EE&bg_color=0d1117&border_radius=20" width="55%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuranV&layout=donut&theme=transparent&hide_border=true&title_color=9D53EE&text_color=ffffff&border_radius=200" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuranV&layout=donut&theme=dark&hide_border=true&title_color=9D53EE&text_color=ffffff&bg_color=0d1117&border_radius=20" width="35%" />
 </p>
 
 <br>
