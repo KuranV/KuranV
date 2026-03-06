@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,discord,raspberrypi,fedora,instagram,godot&perline=9" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,discord,raspberrypi,linux,instagram,godot&perline=9" alt="Tech Stack Icons" />
   </a>
 </p>
 
