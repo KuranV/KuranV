@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuranV&layout=donut&theme=transparent&hide_border=true&title_color=9D53EE&text_color=ffffff&border_radius=20" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuranV&layout=donut&theme=transparent&hide_border=true&title_color=9D53EE&text_color=ffffff&border_radius=200" width="35%" />
 </p>
 
 <br>
