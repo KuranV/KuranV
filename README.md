@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,discord,raspberrypi,linux,godot,instagram&perline=5&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,discord,linux,godot,instagram&perline=5&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
