@@ -1,13 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D53EE,100:EB5454&height=200&section=header&text=KuranV&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🐛%20professional%20bug%20creator&descSize=20&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D53EE,100:EB5454&height=200&section=header&text=KuranV&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=professional%20bug%20creator&descSize=20&descAlignY=55&descAlign=50" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=9D53EE&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=while(alive)+%7B+eat();+sleep();+code();+%7D;+%F0%9F%92%80;rm+-rf+/+...+just+kidding;404+%3A+social+life+not+found;git+commit+-m+%22fix+everything%22+%F0%9F%A4%A1;segfault+(core+dumped)+(my+brain)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=9D53EE&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=while(alive)+%7B+eat();+sleep();+code();+%7D;rm+-rf+/+...+just+kidding;404+%3A+social+life+not+found;git+commit+-m+%22fix+everything%22;segfault+(core+dumped)+(my+brain)" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/☕-COFFEE%20LEVEL%20:%20CRITICAL-D17543?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/🐛-BUGS%20CREATED%20:%20∞-EB5454?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/📚-STATUS%20:%20SCHOOLING-9D53EE?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/-COFFEE%20LEVEL%20:%20CRITICAL-D17543?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/-BUGS%20CREATED%20:%20∞-EB5454?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/-STATUS%20:%20SCHOOLING-9D53EE?style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
 <br>
@@ -54,11 +54,11 @@
 <br>
 
 <p align="center">
-  <a href="mailto:vladimir.kuran.s@gyarab.cz"><img src="https://img.shields.io/badge/📧_hit_me_up-1a1a2e?style=for-the-badge&logoColor=white" /></a>
+  <a href="mailto:vladimir.kuran.s@gyarab.cz"><img src="https://img.shields.io/badge/-hit_me_up-1a1a2e?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KuranV&color=9D53EE&style=for-the-badge&label=👀+PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=KuranV&color=9D53EE&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EB5454,100:9D53EE&height=120&section=footer" width="100%" />
