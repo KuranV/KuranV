@@ -1,8 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D53EE,100:EB5454&height=200&section=header&text=KuranV&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=professional%20bug%20creator&descSize=20&descAlignY=55&descAlign=50" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=9D53EE&center=true&vCenter=true&repeat=true&width=700&height=40&lines=while(alive)+%7B+eat();+sleep();+code();+%7D;rm+-rf+/+...+just+kidding;404+%3A+social+life+not+found;git+commit+-m+%22i don´t know%22" alt="Typing SVG" height=1200 />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=9D53EE&center=true&vCenter=true&repeat=true&width=700&height=40&lines=while(alive)+%7B+eat();+sleep();+code();+%7D;rm+-rf+/+...+just+kidding;404+%3A+social+life+not+found;git+commit+-m+%22i don´t know%22" alt="Typing SVG" />
 </p>
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/-COFFEE%20LEVEL%20:%20CRITICAL-D17543?style=for-the-badge&labelColor=1a1a2e" />
@@ -26,11 +32,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuranV&theme=github_dark" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KuranV&theme=github_dark" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KuranV&theme=github_dark" width="33%" />
 </p>
 
 <br>
