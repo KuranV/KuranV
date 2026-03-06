@@ -31,6 +31,14 @@
 <br>
 
 <p align="center">
+  <a href="https://steamcommunity.com/profiles/76561199161983305">
+    <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199161983305&show_recent_game_bg=true" alt="Steam Status" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
   <a href="mailto:vladimir.kuran.s@gyarab.cz"><img src="https://img.shields.io/badge/-hit_me_up-1a1a2e?style=for-the-badge&logoColor=white" /></a>
 </p>
 
