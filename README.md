@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D53EE,100:EB5454&height=200&section=header&text=KuranV&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=professional%20bug%20creator&descSize=20&descAlignY=55&descAlign=50" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=9D53EE&center=true&vCenter=true&repeat=true&width=700&height=40&lines=while(alive)+%7B+eat();+sleep();+code();+%7D;rm+-rf+/+...+just+kidding;404+%3A+social+life+not+found;git+commit+-m+%22fix+everything%22;segfault+(core+dumped)+(my+brain)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=9D53EE&center=true&vCenter=true&repeat=true&width=700&height=40&lines=while(alive)+%7B+eat();+sleep();+code();+%7D;rm+-rf+/+...+just+kidding;404+%3A+social+life+not+found;git+commit+-m+%22i don´t know%22" alt="Typing SVG" height=120 />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,discord,raspberrypi,fedora,godot&perline=4&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,discord,raspberrypi,linux,godot&perline=4&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
