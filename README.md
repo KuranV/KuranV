@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D53EE,100:EB5454&height=200&section=header&text=KuranV&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=professional%20bug%20creator&descSize=20&descAlignY=55&descAlign=50" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=9D53EE&center=true&vCenter=true&repeat=true&width=450&height=35&lines=while(alive)+%7B+eat();+sleep();+code();+%7D;rm+-rf+/+...+just+kidding;404+%3A+social+life+not+found;git+commit+-m+%22fix+everything%22;segfault+(core+dumped)+(my+brain)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=9D53EE&center=true&vCenter=true&repeat=true&width=700&height=40&lines=while(alive)+%7B+eat();+sleep();+code();+%7D;rm+-rf+/+...+just+kidding;404+%3A+social+life+not+found;git+commit+-m+%22fix+everything%22;segfault+(core+dumped)+(my+brain)" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,11 +25,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KuranV&show_icons=true&theme=dark&hide_border=true&title_color=9D53EE&icon_color=EB5454&text_color=ffffff&ring_color=9D53EE&bg_color=0d1117&border_radius=20" width="55%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuranV&theme=github_dark" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuranV&layout=donut&theme=dark&hide_border=true&title_color=9D53EE&text_color=ffffff&bg_color=0d1117&border_radius=20" width="35%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KuranV&theme=github_dark" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KuranV&theme=github_dark" width="33%" />
 </p>
 
 <br>
