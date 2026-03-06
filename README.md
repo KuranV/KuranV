@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D53EE,100:EB5454&height=200&section=header&text=KuranV&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=professional%20bug%20creator&descSize=20&descAlignY=55&descAlign=50" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=9D53EE&center=true&vCenter=true&repeat=true&width=800&height=100&lines=while(alive)+%7B+eat();+sleep();+code();+%7D;rm+-rf+/+...+just+kidding;404+%3A+social+life+not+found;git+commit+-m+%22i+don't+know%22;I+don't+fix+bugs...+I+create+features" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=300&color=9D53EE&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=150&lines=while(alive)+%7B;++eat();+sleep();+code();+%7D;rm+-rf+/+...+just+kidding;git+commit+-m+%22i+don%27t+know%22" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,19 +14,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,discord,linux,godot,instagram&perline=4&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,discord,raspberrypi,linux,godot&perline=4&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
 <br>
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KuranV&theme=dark&hide_border=true&border_radius=20&short_numbers=true&background=0d1117&ring=9D53EE&fire=EB5454&currStreakLabel=9D53EE&sideLabels=F1C40F&currStreakNum=ffffff&sideNums=ffffff&dates=555555&excludeDaysLabel=EB5454&exclude_days=Sun%2CSat" width="75%" />
+  <img src="https://streak-stats.demolab.com?user=KuranV&theme=dark&hide_border=true&border_radius=20&short_numbers=true&background=0d1117&ring=9D53EE&fire=EB5454&currStreakLabel=9D53EE&sideLabels=F1C40F&currStreakNum=ffffff&sideNums=ffffff&dates=555555&excludeDaysLabel=EB5454&exclude_days=Sun%2CSat" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuranV&theme=github_dark" width="75%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuranV&theme=github_dark" width="70%" />
 </p>
 
 <br>
