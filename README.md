@@ -1,4 +1,4 @@
-# KuranV ✌️
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D53EE&center=true&vCenter=true&width=435&lines=KuranV;Student+by+day...;Professional+bug+creator;Working+on+it;Maybe+tomorrow..." alt="Typing SVG" /></p>
 
 ---
 
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,discord,raspberrypi,linux,instagram,godot&perline=9" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,discord,raspberrypi,fedora,instagram,godot&perline=9" alt="Tech Stack Icons" />
   </a>
 </p>
 
@@ -37,6 +37,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</p>
 
 <p align="center">
   <a href="mailto:vladimir.kuran.s@gyarab.cz">
