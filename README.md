@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,vscode&perline=7" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,discord,raspberrypi,fedora,instagram,godot&perline=9" alt="Tech Stack Icons" />
   </a>
 </p>
 
@@ -29,8 +29,21 @@
 </p>
 
 ---
+
 <p align="center">
-  <a href="mailto:[Your_School_Email]">
-    <img src="https://img.shields.io/badge/-Contact-F1C40F?style=flat-square&logo=gmail&logoColor=black" alt="vladimir.kuran.s@gyarab.cz">
+  <img src="https://github-readme-stats.vercel.app/api?username=KuranV&show_icons=true&theme=dark&hide_border=true" alt="Stats Card" />
+  <br>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:vladimir.kuran.s@gyarab.cz">
+    <img src="https://img.shields.io/badge/-Contact-F1C40F?style=flat-square&logo=gmail&logoColor=black" alt="Email">
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </p>
