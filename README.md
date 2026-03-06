@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D53EE,100:EB5454&height=200&section=header&text=KuranV&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=professional%20bug%20creator&descSize=20&descAlignY=55&descAlign=50" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1500&pause=100&color=9D53EE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=175&lines=while(alive)+%7B;++eat();++;++sleep();++;++code();+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1500&pause=100&color=9D53EE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=175&lines=while(alive)+%7B;++eat();++sleep();++code();+%7D" alt="Typing SVG" />
 </p>
 
 <p align="center">
