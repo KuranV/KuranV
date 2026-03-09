@@ -25,6 +25,10 @@
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=vojtecholcman&theme=dark&hide_border=true&border_radius=20&short_numbers=true&background=0d1117&ring=9D53EE&fire=EB5454&currStreakLabel=9D53EE&sideLabels=F1C40F&currStreakNum=ffffff&sideNums=ffffff&dates=555555&excludeDaysLabel=EB5454&exclude_days=Sun%2CSat" width="70%" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuranV&theme=github_dark" width="70%" />
 </p>
 
