@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-COFFEE%20LEVEL%20:%20CRITICAL-D17543?style=for-the-badge&labelColor=1a1a2e" />
+  <a href="https://buymeacoffee.com/flar">
+    <img src="https://img.shields.io/badge/-COFFEE%20LEVEL%20:%20CRITICAL-D17543?style=for-the-badge&labelColor=1a1a2e" alt="Buy Me A Coffee" />
+  </a>
   <img src="https://img.shields.io/badge/-BUGS%20CREATED%20:%20∞-EB5454?style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/-STATUS%20:%20SCHOOLING-9D53EE?style=for-the-badge&labelColor=1a1a2e" />
 </p>
