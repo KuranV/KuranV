@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D53EE,100:EB5454&height=200&section=header&text=KuranV&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=professional%20bug%20creator&descSize=20&descAlignY=55&descAlign=50" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1500&pause=1000&color=9D53EE&center=true&vCenter=true&repeat=true&width=700&height=35&lines=404%3A+A+social+life+not+found;rm+-fr+./*+...+delete+french+language;git+commit+-m+%22i+don't+know%22;it+works+on+my+machine;%2F%2F+TODO%3A+fix+this+later;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1500&pause=1000&color=9D53EE&center=true&vCenter=true&repeat=true&width=700&height=35&lines=404%3A+A+social+life+not+found;rm+-fr+./*+...+delete+french+language;professional+vibecoder;git+commit+-m+%22i+don't+know%22;it+works+on+my+machine;%2F%2F+TODO%3A+fix+this+later;" alt="Typing SVG" />
 </p>
 
 <p align="center">
